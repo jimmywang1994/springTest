@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d26b32f5-1d73-4b57-a13f-9156a72403d7" name="Default Changelist" comment="" />
+    <list default="true" id="d26b32f5-1d73-4b57-a13f-9156a72403d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wwSpring/src/main/java/org/spring/annotation/WWService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwSpring/src/main/java/org/spring/util/AnnotationConfigApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwSpring/src/main/java/com/ww/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/wwSpring/src/main/java/com/ww/dao/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwSpring/src/main/java/com/ww/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/wwSpring/src/main/java/com/ww/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwSpring/target/classes/com/ww/dao/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/wwSpring/target/classes/com/ww/dao/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwSpring/target/classes/com/ww/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/wwSpring/target/classes/com/ww/test/Test.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +21,12 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,6 +41,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1aThIffVlJbCqj2rqDaVltItW0A" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -115,11 +130,23 @@
       <updated>1586765413218</updated>
       <workItem from="1586765416886" duration="12608000" />
       <workItem from="1586869037816" duration="9685000" />
+      <workItem from="1586928376835" duration="2158000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -148,6 +175,11 @@
           <url>file://$PROJECT_DIR$/wwSpring/src/main/java/org/spring/util/BeanFactory.java</url>
           <line>83</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wwSpring/src/main/java/org/spring/util/AnnotationConfigApplicationContext.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
